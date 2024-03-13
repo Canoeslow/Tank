@@ -1,3 +1,8 @@
+/**
+    * @author 韩橹航
+    * @version 1.1
+    * 第二次修订版
+*/
 package Tank;
 
 import javax.swing.*;
@@ -6,6 +11,7 @@ import java.awt.event.WindowEvent;
 import java.util.Scanner;
 
 public class tankgame01 extends JFrame {
+    //第二次修改
     //定义一个mypanel
     mypanel mp=null;
     static Scanner scanner=new Scanner(System.in);
